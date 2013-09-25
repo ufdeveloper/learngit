@@ -1,0 +1,1 @@
+2 13 * * * /Users/a1042481/wcm_read_api_test.sh>> /Users/a1042481/cron_work.log
